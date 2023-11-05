@@ -1,0 +1,62 @@
+{
+    "planets": [
+
+      {
+        "name": "Mercury",
+        "semi_major_axis_km": 57909227,
+        "radius_km": 2439.7,
+        "color": "#8a7561",
+        "orbital_period_years": 0.24
+      },
+      {
+        "name": "Venus",
+        "semi_major_axis_km": 108209475,
+        "radius_km": 6051.8,
+        "color": "#e5c69c",
+        "orbital_period_years": 0.62
+      },
+      {
+        "name": "Earth",
+        "semi_major_axis_km": 149598262,
+        "radius_km": 6371.0,
+        "color": "#345995",
+        "orbital_period_years": 1.0
+      },
+      {
+        "name": "Mars",
+        "semi_major_axis_km": 227943824,
+        "radius_km": 3389.5,
+        "color": "#b52b1e",
+        "orbital_period_years": 1.88
+      },
+      {
+        "name": "Jupiter",
+        "semi_major_axis_km": 778340821,
+        "radius_km": 69911,
+        "color": "#d6bf9e",
+        "orbital_period_years": 11.86
+      },
+      {
+        "name": "Saturn",
+        "semi_major_axis_km": 1426666422,
+        "radius_km": 58232,
+        "color": "#d1c7b7",
+        "orbital_period_years": 29.46
+      },
+      {
+        "name": "Uranus",
+        "semi_major_axis_km": 2870658186,
+        "radius_km": 25362,
+        "color": "#82caff",
+        "orbital_period_years": 84.01
+      },
+      {
+        "name": "Neptune",
+        "semi_major_axis_km": 4498396441,
+        "radius_km": 24622,
+        "color": "#4d79ff",
+        "orbital_period_years": 164.79
+      }
+    ]
+  }
+  
